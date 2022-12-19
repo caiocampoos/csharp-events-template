@@ -19,17 +19,18 @@ Tests can be made with distinc aproaches based on what side of the application w
 - [ ] Add Endpoint for Client Authentication (Issuer of Tokens for authenticathed users)
 - [ ] Unit Tests for Services and Aplication
 - [ ] Add validation checksum for ensure secure transactions  
-- [ ] Add endpoint for Api Monitoring  
+- [ ] Add endpoint for Api Monitoring
+- [ ] Unit Tests
+- [ ] Integration Tests
+- [ ] Code quality tracking with SonarQube and Eslint
+- [ ] Load Test  
 
 ### In Progress
 
 - [ ] Base App Consumer
 - [ ] Data Visualization Service
 - [ ] Report System based on Event Stream and BD data
-- [ ] Unit Tests
-- [ ] Integration Tests
-- [ ] Code quality tracking with SonarQube and Eslint
-- [ ] Load Test
+
 
 ### Done ✓
 - [x] Arquitechture
