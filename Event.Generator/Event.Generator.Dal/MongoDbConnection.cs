@@ -18,6 +18,5 @@ namespace Event.Generator.Dal
         string ConnectionUri { get; set; }
         string DatabaseName { get; set; }
         string CollectionName { get; set; }
-
     }
 }

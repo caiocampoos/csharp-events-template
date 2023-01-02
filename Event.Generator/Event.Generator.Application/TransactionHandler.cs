@@ -25,11 +25,7 @@ namespace Event.Generator.Application
                 if (Task.FromResult(trans).IsCompleted) { 
                     
                     _eventProducer.SendMessage(transaction);
-                
-                }
-
-                              
-              
+                }           
                 return Task.FromResult(trans);
             }
             catch (Exception ex) {
