@@ -13,7 +13,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Event.Generator.Domain\Event.Generator.Domain.csproj" />
-    <ProjectReference Include="..\Event.Generator.Services\Event.Generator.Services.csproj" />
   </ItemGroup>
 
 </Project>
